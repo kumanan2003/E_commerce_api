@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "MyApp",
+    "slug": "myapp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "projectId": "636dc31e-e79f-445d-99d9-cf17e6b3f266",
+    "extra": {
+      "eas": {
+        "projectId": "636dc31e-e79f-445d-99d9-cf17e6b3f266"
+      }
+    },
+    "android": {
+      "package": "com.kumanank.ecom"
+    }
+  }
+}
